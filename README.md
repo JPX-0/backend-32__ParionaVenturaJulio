@@ -41,17 +41,9 @@ forever start src/index.js
 ```
 pm2 start src/index.js
 ```
-## **🚨 Tener en cuenta 🚨 📢**
-
-_Antes de ejecutar forever o m2 debe hacer primero una configuración:_
-
-  - Ingresar a "src/forever-pm2.json"
-  - Cambiar "changeServer" de [**false**](false) a [**true**](true)
-  - Guardar cambios y ejecutar forever o pm2.
-
-_Esta configuración evitará ciertos errores en el código._
 
 
 # Entrega de desafío:
 
-_Las respuestas a la consigna las verá en un archivo llamado "desafio-servidor-nginx.md"_
+_Las respuestas a la consigna las verá en 2 archivos .md_
+> ubicación: "./desafio1.md" y "./desafio2.md"
